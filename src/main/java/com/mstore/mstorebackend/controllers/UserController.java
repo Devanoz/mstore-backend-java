@@ -1,2 +1,4 @@
-package com.mstore.mstorebackend.controllers;public class UserController {
+package com.mstore.mstorebackend.controllers;
+
+public class UserController {
 }
